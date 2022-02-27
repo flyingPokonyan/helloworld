@@ -1,6 +1,8 @@
 hello,git master insert
 hello,git
 hello,git
+hello,git test-branch merge
+hello,git
 hello,git
 hello,git
 hello,git
