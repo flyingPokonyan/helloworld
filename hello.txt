@@ -7,3 +7,7 @@ hello,git
 hello,git
 hello,git
 hello,git
+HELO,JSAOIDWA
+hellosa,dpwaoi
+
+test git git reset
